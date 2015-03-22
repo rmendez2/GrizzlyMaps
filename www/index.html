@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+		<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+		<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+		<title>Welcome!</title>
+
+
+
+        
+    </head>
+    <body onload="onBodyLoad()">
+		<!-- jquery example from: http://www.w3schools.com/jquerymobile/tryit.asp?filename=tryjqmob_button -->
+		
+		<div data-role="page" id="pageone" style="text-transform:none">
+			<div data-role="header" data-position="fixed">
+				<h1>Grizzly Maps</h1>
+			</div>
+			<div data-role="content">
+				<H1> Grizzly Maps </H1>
+				<div align="center">
+					<img src="img/grizzlies.jpg" alt="Bear!" >
+				</div>
+				<div align="center">
+					<p id="recipeBtn" style="text-transform:none">
+				    	<a href="#pagetwo" data-role="button" data-inline="true">Campus Map</a>
+						<br><a href="#pagethree" data-role="button" data-inline="true">About Me</a>
+						<br><a href="#pagefour" data-role="button" data-inline="true">Area Map</a>
+				    </p>
+				   </div>
+			</div>
+			<div data-role="footer" data-position="fixed">
+				<h1 style="text-transform:none">GGC ITEC 4550</h1>
+			</div>
+		</div>
+		
+		<div data-role="page" id="pagetwo" style="text-transform:none">
+			<div data-role="header">
+				<h1>Campus Map</h1>
+			</div>
+			<div data-role="main" class="ui-content">
+			<center><img src="img/campusmap.png" alt="map!" ></center>
+			</div>
+
+			<div data-role="footer" style="text-transform:none">
+				<h1>GGC ITEC 4550</h1>
+			</div>
+		</div>
+		
+		<div data-role="page" id="pagethree" style="text-transform:none">
+			<div data-role="header">
+				<h1>About Me</h1>
+			</div>
+			<div data-role="main" class="ui-content">
+			<h1>About Me</h1>
+			<center><img src="img/wizard.png" alt="Me!" ></center>
+			<center><h2>The Great Wizard Ruben Mendez</h2></center>
+			<center><h3>ITEC 4550</h3></center>
+			</div>
+			
+			
+			</div>
+			<div data-role="page" id="pagefour" style="text-transform:none">
+			<div data-role="header">
+				<h1>Area Map</h1>
+			<div data-role="main" class="ui-content">
+			<h1>Area Map</h1>
+			<center><img src="img/areamap.jpg" alt="area map!" ></center>
+			<center><h2>The Great Wizard Ruben Mendez</h2></center>
+			<center><h3>ITEC 4550</h3></center>
+			</div>
+
+			<div data-role="footer" style="text-transform:none">
+				<h1>GGC ITEC 4550</h1>
+			</div>
+		</div>
+
+		<script type="text/javascript" src="cordova.js"></script>
+		<script type="text/javascript" src="js/index.js"></script>
+	</body>
+    
+</html>

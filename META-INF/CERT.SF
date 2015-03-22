@@ -1,0 +1,90 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: /LJAAdubBtfCf7qIfis9asndP2g=
+Created-By: 1.0 (Android)
+
+Name: AndroidManifest.xml
+SHA1-Digest: FgOpJFC5cYDEPPCeAevgj4P4+V4=
+
+Name: res/drawable-port-ldpi-v4/screen.png
+SHA1-Digest: mE61JKUtvrNBtmhyKoMsht6TzpA=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: 3V0Y1r3aqRNr5HknZhS2zts282k=
+
+Name: assets/www/img/logo.png
+SHA1-Digest: YK5vVHXnrWkBUKYiYlRwAZZ/zWU=
+
+Name: assets/www/cordova.js
+SHA1-Digest: 5EkrRnAMosyQKB7TZp1O+3TRSvk=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: y7SPTnXavqm3VL4YU59UcONHi6A=
+
+Name: res/drawable-land-hdpi-v4/screen.png
+SHA1-Digest: jIQQxGGNkn7wLuXwcKzvUUxGlNI=
+
+Name: res/xml/config.xml
+SHA1-Digest: EX2m+6lDQXJ6yaABvE0uEIUfiWo=
+
+Name: res/drawable-land-xhdpi-v4/screen.png
+SHA1-Digest: uwSq2lAsbn517Beqh0Q91NUs86A=
+
+Name: res/drawable-port-hdpi-v4/screen.png
+SHA1-Digest: TexVJuKBe7RIX63L9yazh6eOw+8=
+
+Name: assets/_where-is-www.txt
+SHA1-Digest: XyoRHUmqQWhFqkB6tnerFbQr+4I=
+
+Name: assets/www/plugins/org.apache.cordova.dialogs/www/android/notifi
+ cation.js
+SHA1-Digest: 4wHWoYBSYcnkl3lRrVh5LSoI9LA=
+
+Name: assets/www/plugins/org.apache.cordova.dialogs/www/notification.j
+ s
+SHA1-Digest: KQRL7MWYu58j7Ucaygf6ARidve0=
+
+Name: assets/www/index.html
+SHA1-Digest: e61pJmOozGj7eLaD5+WZl73r538=
+
+Name: res/drawable/icon.png
+SHA1-Digest: uvuielAB8iUnMLObHEXVenPOa+o=
+
+Name: assets/www/js/index.js
+SHA1-Digest: DE+MUB4G28G3R+yy9e8WfCNjj90=
+
+Name: res/drawable-land-ldpi-v4/screen.png
+SHA1-Digest: ykt1q37h0o6e8nTwlzoa2yESIdU=
+
+Name: res/drawable-port-xhdpi-v4/screen.png
+SHA1-Digest: 94gj6GvDNJEnS8H238nPU2dIAoA=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: 5ccICDqJGSCTiKJ9z2tKTVAwTqU=
+
+Name: assets/www/img/guacamole.png
+SHA1-Digest: FHh5TD3728pQC0Xdp/+2XsyC31I=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: 9PzlvZ9ElKTz0Fppi2cG/msk68M=
+
+Name: res/drawable-land-mdpi-v4/screen.png
+SHA1-Digest: meocnDlUylnLGomGN/oNyPvq1w4=
+
+Name: resources.arsc
+SHA1-Digest: qbY+xeJx+dbt8xKsuHdhUoJb7ko=
+
+Name: assets/www/plugins/org.apache.cordova.device/www/device.js
+SHA1-Digest: zb64XC0pcWmF36ykhdU7oz+G2Zw=
+
+Name: res/drawable-port-mdpi-v4/screen.png
+SHA1-Digest: AnMw4dYUgOFTRVtYrb7QoM0f1sc=
+
+Name: classes.dex
+SHA1-Digest: rlb8vaykHnDoJj5luJmLGGLO1+s=
+
+Name: assets/www/css/index.css
+SHA1-Digest: N6YHp1iN/uYTIqkQjm7UYE+rVzU=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: M8Tm62C01u2bodD5HCOWK/Z+w94=
+
